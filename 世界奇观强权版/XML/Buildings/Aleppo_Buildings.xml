@@ -80,6 +80,13 @@
 			<!--信仰加成÷100-->
 			<Yield>800</Yield>
 		</Row>
+		<Row>
+			<BuildingType>BUILDING_ALEPPO</BuildingType>
+			<!--关联建筑阿勒颇大清真寺-->
+			<YieldType>YIELD_CULTURE</YieldType>
+			<!--文化加成÷100-->
+			<Yield>800</Yield>
+		</Row>
 	</Building_YieldChangesPerReligion>
 	
 	<Building_Flavors>

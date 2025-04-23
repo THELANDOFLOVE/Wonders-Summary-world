@@ -7,7 +7,7 @@
 		</Row>
 		<!-- Help tags -->
 		<Row Tag="TXT_KEY_WONDER_PANTHEON_HELP">
-			<Text>建造该奇观的城市附近出现一位[ICON_PROPHET]大先知。[NEWLINE][NEWLINE]圣殿额外+4[ICON_CULTURE]文化、[ICON_HAPPINESS_1]快乐产出。</Text>
+			<Text>建造该奇观的城市附近出现一位[ICON_PROPHET]大先知。[NEWLINE][NEWLINE]圣殿额外+12[ICON_CULTURE]文化、[ICON_HAPPINESS_1]快乐产出。</Text>
 		</Row>
 		<!-- Quote tags -->
 		<Row Tag="TXT_KEY_WONDER_PANTHEON_QUOTE">

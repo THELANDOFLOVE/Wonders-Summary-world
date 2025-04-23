@@ -20,7 +20,7 @@
 			<!--所需科技神学-->
 			<SpecialistType>SPECIALIST_ENGINEER</SpecialistType>
 			<!--砖家类型工程师-->
-			<GreatPeopleRateChange>1</GreatPeopleRateChange>
+			<GreatPeopleRateChange>2</GreatPeopleRateChange>
 			<!--砖家点数增幅-->
 			<NukeImmune>true</NukeImmune>
 			<!--不会被核弹摧毁-->
@@ -64,7 +64,7 @@
 			<!--关联建筑东大寺-->
 			<YieldType>YIELD_FAITH</YieldType>
 			<!--信仰加成-->
-			<Yield>4</Yield>
+			<Yield>8</Yield>
 		</Row>
 	</Building_YieldChanges>
 	
@@ -77,7 +77,7 @@
 			<!--资源类型鹿-->
 			<YieldType>YIELD_FAITH</YieldType>
 			<!--信仰加成-->
-			<Yield>1</Yield>
+			<Yield>2</Yield>
 		</Row>
 		<Row>
 			<BuildingType>BUILDING_TODAIJI</BuildingType>
@@ -86,7 +86,7 @@
 			<!--资源类型马-->
 			<YieldType>YIELD_FAITH</YieldType>
 			<!--信仰加成-->
-			<Yield>1</Yield>
+			<Yield>2</Yield>
 		</Row>
 		<Row>
 			<BuildingType>BUILDING_TODAIJI</BuildingType>
@@ -95,7 +95,7 @@
 			<!--资源类型牛-->
 			<YieldType>YIELD_FAITH</YieldType>
 			<!--信仰加成-->
-			<Yield>1</Yield>
+			<Yield>2</Yield>
 		</Row>
 		<Row>
 			<BuildingType>BUILDING_TODAIJI</BuildingType>
@@ -104,7 +104,7 @@
 			<!--资源类型羊-->
 			<YieldType>YIELD_FAITH</YieldType>
 			<!--信仰加成-->
-			<Yield>1</Yield>
+			<Yield>2</Yield>
 		</Row>
 		<Row>
 			<BuildingType>BUILDING_TODAIJI</BuildingType>
@@ -113,7 +113,7 @@
 			<!--资源类型鱼-->
 			<YieldType>YIELD_FAITH</YieldType>
 			<!--信仰加成-->
-			<Yield>1</Yield>
+			<Yield>2</Yield>
 		</Row>
 		<Row>
 			<BuildingType>BUILDING_TODAIJI</BuildingType>
@@ -122,7 +122,7 @@
 			<!--资源类型鲸鱼-->
 			<YieldType>YIELD_FAITH</YieldType>
 			<!--信仰加成-->
-			<Yield>1</Yield>
+			<Yield>2</Yield>
 		</Row>
 		<Row>
 			<BuildingType>BUILDING_TODAIJI</BuildingType>
@@ -131,7 +131,7 @@
 			<!--资源类型象牙-->
 			<YieldType>YIELD_FAITH</YieldType>
 			<!--信仰加成-->
-			<Yield>1</Yield>
+			<Yield>2</Yield>
 		</Row>
 		<Row>
 			<BuildingType>BUILDING_TODAIJI</BuildingType>
@@ -140,7 +140,7 @@
 			<!--资源类型毛皮-->
 			<YieldType>YIELD_FAITH</YieldType>
 			<!--信仰加成-->
-			<Yield>1</Yield>
+			<Yield>2</Yield>
 		</Row>
 		<Row>
 			<BuildingType>BUILDING_TODAIJI</BuildingType>
@@ -149,7 +149,7 @@
 			<!--资源类型螃蟹-->
 			<YieldType>YIELD_FAITH</YieldType>
 			<!--信仰加成-->
-			<Yield>1</Yield>
+			<Yield>2</Yield>
 		</Row>
 		<Row>
 			<BuildingType>BUILDING_TODAIJI</BuildingType>
@@ -158,7 +158,7 @@
 			<!--资源类型松露-->
 			<YieldType>YIELD_FAITH</YieldType>
 			<!--信仰加成-->
-			<Yield>1</Yield>
+			<Yield>2</Yield>
 		</Row>
 		<Row>
 			<BuildingType>BUILDING_TODAIJI</BuildingType>
@@ -167,7 +167,7 @@
 			<!--资源类型珍珠-->
 			<YieldType>YIELD_FAITH</YieldType>
 			<!--信仰加成-->
-			<Yield>1</Yield>
+			<Yield>2</Yield>
 		</Row>
 		<Row>
 			<BuildingType>BUILDING_TODAIJI</BuildingType>
@@ -176,7 +176,7 @@
 			<!--资源类型野牛-->
 			<YieldType>YIELD_FAITH</YieldType>
 			<!--信仰加成-->
-			<Yield>1</Yield>
+			<Yield>2</Yield>
 		</Row>
 	</Building_ResourceYieldChanges>
 	

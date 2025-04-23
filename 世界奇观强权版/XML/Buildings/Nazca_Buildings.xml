@@ -41,6 +41,20 @@
 			<WonderSplashAnchor>R,T</WonderSplashAnchor>
 		</Row>
 	</Buildings>
+	<Building_YieldChangesPerEra>
+	    <Row>
+	        <BuildingType>BUILDING_NAZCA</BuildingType>
+			<YieldType>YIELD_SCIENCE</YieldType>
+			<Yield>5</Yield>
+	    </Row>
+	</Building_YieldChangesPerEra>
+	<Building_YieldModifiersChangesPerEra>
+		<Row>
+			<BuildingType>BUILDING_NAZCA</BuildingType>
+			<YieldType>YIELD_SCIENCE</YieldType>
+			<Yield>10</Yield>
+		</Row>
+	</Building_YieldModifiersChangesPerEra>
 	
 	<Building_ResourceQuantityRequirements>
 	<!--战略资源消耗-->
@@ -60,14 +74,14 @@
 			<!--关联建筑纳斯卡线条-->
 			<YieldType>YIELD_CULTURE</YieldType>
 			<!--文化加成-->
-			<Yield>2</Yield>
+			<Yield>4</Yield>
 		</Row>
 		<Row>
 			<BuildingType>BUILDING_NAZCA</BuildingType>
 			<!--关联建筑纳斯卡线条-->
 			<YieldType>YIELD_FAITH</YieldType>
 			<!--信仰加成-->
-			<Yield>2</Yield>
+			<Yield>4</Yield>
 		</Row>
 	</Building_YieldChanges>
 	
@@ -80,7 +94,7 @@
 			<!--受影响的建筑神殿-->
 			<YieldType>YIELD_FAITH</YieldType>
 			<!--信仰加成-->
-			<YieldChange>2</YieldChange>
+			<YieldChange>4</YieldChange>
 		</Row>
 		<Row>
 			<BuildingType>BUILDING_NAZCA</BuildingType>
@@ -89,7 +103,7 @@
 			<!--受影响的建筑大学-->
 			<YieldType>YIELD_SCIENCE</YieldType>
 			<!--科研加成-->
-			<YieldChange>2</YieldChange>
+			<YieldChange>4</YieldChange>
 		</Row>
 	</Building_BuildingClassYieldChanges>
 	

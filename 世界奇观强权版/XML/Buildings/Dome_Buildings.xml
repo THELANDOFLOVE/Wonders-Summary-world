@@ -21,7 +21,7 @@
 			<!--<SpecialistType>SPECIALIST_ARTIST</SpecialistType>
 			<GreatPeopleRateChange>1</GreatPeopleRateChange>>
 			<SpecialistCount>1</SpecialistCount-->
-			<GlobalCultureRateModifier>15</GlobalCultureRateModifier>
+			<GlobalCultureRateModifier>45</GlobalCultureRateModifier>
 			<!--全国文化加成-->
 			<NukeImmune>true</NukeImmune>
 			<!--不会被核弹摧毁-->
@@ -61,7 +61,7 @@
 			<!--关联建筑岩石圆顶寺-->
 			<YieldType>YIELD_FAITH</YieldType>
 			<!--信仰加成-->
-			<Yield>5</Yield>
+			<Yield>10</Yield>
 		</Row>
 	</Building_YieldChanges>
 	

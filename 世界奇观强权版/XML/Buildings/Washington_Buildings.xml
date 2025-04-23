@@ -18,16 +18,16 @@
 			<!--建造花费-->
 			<PrereqTech>TECH_MILITARY_SCIENCE</PrereqTech>
 			<!--所需科技军事科学-->
-			<UnmoddedHappiness>4</UnmoddedHappiness>
+			<UnmoddedHappiness>8</UnmoddedHappiness>
 			<!--全国快乐-->
 			<SpecialistType>SPECIALIST_ENGINEER</SpecialistType>
 			<!--砖家类型工程师-->
 			<GreatPeopleRateChange>2</GreatPeopleRateChange>
 			<!--砖家点数增幅-->
-			<GlobalGreatPeopleRateModifier>25</GlobalGreatPeopleRateModifier>
+			<GlobalGreatPeopleRateModifier>50</GlobalGreatPeopleRateModifier>
 			<!--全国伟人诞生速率-->
 			<!--GlobalPlotCultureCostModifier>-25</GlobalPlotCultureCostModifier-->
-			<GlobalPlotBuyCostModifier>-25</GlobalPlotBuyCostModifier>
+			<GlobalPlotBuyCostModifier>-50</GlobalPlotBuyCostModifier>
 			<!--购买地块所需金币减少-->
 			<FreeBuilding>BUILDINGCLASS_WASHINGTON_BOUNS</FreeBuilding>
 			<!--所有城市赠送建筑-->
@@ -91,7 +91,7 @@
 			<!--关联建筑华盛顿纪念碑-->
 			<YieldType>YIELD_CULTURE</YieldType>
 			<!--文化加成-->
-			<Yield>6</Yield>
+			<Yield>12</Yield>
 		</Row>
 		
 		<Row>
@@ -99,7 +99,7 @@
 			<!--关联建筑华盛顿纪念碑加成-->
 			<YieldType>YIELD_CULTURE</YieldType>
 			<!--文化加成-->
-			<Yield>2</Yield>
+			<Yield>4</Yield>
 		</Row>
 	</Building_YieldChanges>
 	

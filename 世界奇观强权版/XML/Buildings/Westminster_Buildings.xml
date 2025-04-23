@@ -60,7 +60,7 @@
 			<!--关联建筑威斯敏斯特大教堂-->
 			<YieldType>YIELD_FAITH</YieldType>
 			<!--信仰加成-->
-			<Yield>4</Yield>
+			<Yield>8</Yield>
 		</Row>
 	</Building_YieldChanges>
 	

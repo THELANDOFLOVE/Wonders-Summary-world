@@ -7,7 +7,7 @@
 		</Row>
 		<!-- Help tags -->
 		<Row Tag="TXT_KEY_WONDER_ALEPPO_HELP">
-			<Text>本城获得一座免费[ICON_PEACE]清真寺。[NEWLINE][NEWLINE]本城每存在一个不同[ICON_RELIGION]宗教将额外+8[ICON_PRODUCTION]产能、[ICON_PEACE]信仰产出。</Text>
+			<Text>本城获得一座免费[ICON_PEACE]清真寺。[NEWLINE][NEWLINE]本城每存在一个不同[ICON_RELIGION]宗教将额外+8[ICON_PRODUCTION]产能、[ICON_PEACE]信仰、[ICON_CULTURE]文化产出。</Text>
 		</Row>
 		<!-- Quote tags -->
 		<Row Tag="TXT_KEY_WONDER_ALEPPO_QUOTE">

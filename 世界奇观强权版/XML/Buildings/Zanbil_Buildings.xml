@@ -63,7 +63,7 @@
 			<!--关联建筑乌塔什金字塔-->
 			<YieldType>YIELD_FAITH</YieldType>
 			<!--信仰-->
-			<Yield>3</Yield>
+			<Yield>6</Yield>
 		</Row>
 	</Building_YieldChanges>
 	
@@ -81,10 +81,17 @@
 			<!--关联建筑乌塔什金字塔-->
 			<ResourceType>RESOURCE_CONSUMER</ResourceType>
 			<!--资源类型消费品-->
-    		<Quantity>5</Quantity>
+    		<Quantity>10</Quantity>
 		</Row>
 	</Building_ResourceQuantity>
-	
+	<Building_YieldModifiersChangesPerEra>
+		<Row>
+			<BuildingType>BUILDING_ZANBIL</BuildingType>
+			<YieldType>YIELD_SCIENCE</YieldType>
+			<Yield>5</Yield>
+		</Row>
+	</Building_YieldModifiersChangesPerEra>
+
 	<Building_Flavors>
 	<!--ai建造参考数值，对玩家没用-->
 		<Row>

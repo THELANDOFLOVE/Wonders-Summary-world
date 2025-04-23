@@ -7,7 +7,7 @@
 		</Row>
 		<!-- Help tags -->
 		<Row Tag="TXT_KEY_WONDER_TAJIN_HELP">
-			<Text>本城获得一座免费[ICON_FOOD]粮仓，所有[ICON_CITYBANNER_CITY_LV1]一级城市+5[ICON_GOLD]金币产出。[NEWLINE][NEWLINE]当研发[COLOR_CYAN]城市化[ENDCOLOR]后+2[ICON_TOURISM]魅力产出。</Text>
+			<Text>本城获得一座免费[ICON_FOOD]粮仓，所有[ICON_CITYBANNER_CITY_LV1]一级城市+5[ICON_GOLD]金币、[ICON_CULTURE]文化产出。[NEWLINE][NEWLINE]当研发[COLOR_CYAN]城市化[ENDCOLOR]后+2[ICON_TOURISM]魅力产出。</Text>
 		</Row>
 		<!-- Quote tags -->
 		<Row Tag="TXT_KEY_WONDER_TAJIN_QUOTE">

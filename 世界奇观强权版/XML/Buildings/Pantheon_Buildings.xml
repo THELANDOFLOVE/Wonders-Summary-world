@@ -69,7 +69,7 @@
 			<!--关联建筑万神殿-->
 			<YieldType>YIELD_FAITH</YieldType>
 			<!--信仰加成-->
-			<Yield>6</Yield>
+			<Yield>12</Yield>
 		</Row>
 	</Building_YieldChanges>
 	
@@ -82,7 +82,7 @@
 			<!--受影响的建筑圣殿-->
 			<YieldType>YIELD_CULTURE</YieldType>
 			<!--文化加成-->
-			<YieldChange>4</YieldChange>
+			<YieldChange>12</YieldChange>
 		</Row>
 	</Building_BuildingClassYieldChanges>
 	
@@ -93,7 +93,7 @@
 			<!--关联建筑万神殿-->
 			<BuildingClassType>BUILDINGCLASS_GRAND_TEMPLE</BuildingClassType>
 			<!--受影响的建筑圣殿-->
-			<Happiness>4</Happiness>
+			<Happiness>12</Happiness>
 		</Row>
 	</Building_BuildingClassHappiness>
 	

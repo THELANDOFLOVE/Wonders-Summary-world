@@ -8,7 +8,7 @@
 			<Help>TXT_KEY_PROMOTION_GIFU_HELP</Help>
 			<Sound>AS2D_IF_LEVELUP</Sound>
 			<CannotBeChosen>true</CannotBeChosen>
-			<OutsideFriendlyLandsModifier>15</OutsideFriendlyLandsModifier>
+			<OutsideFriendlyLandsModifier>100</OutsideFriendlyLandsModifier>
 			<PortraitIndex>59</PortraitIndex>
 			<IconAtlas>PROMOTION_ATLAS</IconAtlas>
 			<PediaType>PEDIA_SHARED</PediaType>

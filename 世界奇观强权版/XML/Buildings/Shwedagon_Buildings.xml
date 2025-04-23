@@ -60,7 +60,7 @@
 			<!--关联建筑仰光大金塔-->
 			<YieldType>YIELD_FAITH</YieldType>
 			<!--信仰加成-->
-			<Yield>2</Yield>
+			<Yield>4</Yield>
 		</Row>
 	</Building_YieldChanges>
 	
@@ -73,7 +73,7 @@
 			<!--关联专家工程师-->
 			<YieldType>YIELD_GOLD</YieldType>
 			<!--金币加成-->
-			<Yield>2</Yield>
+			<Yield>4</Yield>
 		</Row>
 		<Row>
 			<BuildingType>BUILDING_SHWEDAGON</BuildingType>
@@ -82,7 +82,7 @@
 			<!--关联专家美术家-->
 			<YieldType>YIELD_GOLD</YieldType>
 			<!--金币加成-->
-			<Yield>2</Yield>
+			<Yield>4</Yield>
 		</Row>
 	</Building_SpecialistYieldChanges>
 	
@@ -95,7 +95,7 @@
 			<!--资源类型黄金-->
 			<YieldType>YIELD_FAITH</YieldType>
 			<!--信仰加成-->
-			<Yield>4</Yield>
+			<Yield>8</Yield>
 		</Row>
 		<Row>
 			<BuildingType>BUILDING_SHWEDAGON</BuildingType>
@@ -104,7 +104,7 @@
 			<!--资源类型黄金-->
 			<YieldType>YIELD_CULTURE</YieldType>
 			<!--文化加成-->
-			<Yield>4</Yield>
+			<Yield>8</Yield>
 		</Row>
 	</Building_ResourceYieldChanges>
 	

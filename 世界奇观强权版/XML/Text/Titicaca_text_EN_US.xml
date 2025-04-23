@@ -7,7 +7,7 @@
 		</Row>
 		<!-- Help tags -->
 		<Row Tag="TXT_KEY_WONDER_TITICACA_HELP">
-			<Text>所有城市+10%[ICON_FOOD]食物产出，本城[COLOR_POSITIVE_TEXT]湖泊[ENDCOLOR]地块额外+1[ICON_FOOD]食物、[ICON_PEACE]信仰产出。[NEWLINE][NEWLINE]城市必须[ICON_PROMOTION_ALTITUDE_TRAINING]靠山并邻近淡水。</Text>
+			<Text>所有城市+25%[ICON_FOOD]食物产出，本城[COLOR_POSITIVE_TEXT]湖泊[ENDCOLOR]地块额外+2[ICON_FOOD]食物、[ICON_PEACE]信仰产出。[NEWLINE][NEWLINE]城市必须[ICON_PROMOTION_ALTITUDE_TRAINING]靠山并邻近淡水。</Text>
 		</Row>
 		<!-- Quote tags -->
 		<Row Tag="TXT_KEY_WONDER_TITICACA_QUOTE">

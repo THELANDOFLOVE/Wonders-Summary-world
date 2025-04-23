@@ -7,7 +7,7 @@
 		</Row>
 		<!-- Help tags -->
 		<Row Tag="TXT_KEY_WONDER_TAIPEI_HELP">
-			<Text>本城+40[ICON_GOLD]金币产出，并获得一座免费[ICON_GOLD]金融公司。[NEWLINE][NEWLINE]每名[ICON_CITIZEN]人口+2[ICON_GOLD]金币产出。</Text>
+			<Text>本城+80[ICON_GOLD]金币产出，并获得一座免费[ICON_GOLD]金融公司。[NEWLINE][NEWLINE]每名[ICON_CITIZEN]人口+4[ICON_GOLD]金币产出。</Text>
 		</Row>
 		<!-- Quote tags -->
 		<Row Tag="TXT_KEY_WONDER_TAIPEI_QUOTE">

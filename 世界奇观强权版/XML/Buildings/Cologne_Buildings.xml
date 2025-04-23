@@ -40,6 +40,7 @@
 			<!--奇观建成图片-->
 			<WonderSplashAnchor>L,T</WonderSplashAnchor>
 			<GoldenAge>true</GoldenAge>
+			<GoldenAgeModifier>50</GoldenAgeModifier>
 		</Row>
 	</Buildings>
 	

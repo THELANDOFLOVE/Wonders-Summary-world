@@ -32,7 +32,7 @@
 			<!--无需邻湖邻海-->
 			<ConquestProb>100</ConquestProb>
 			<!--征服奖金-->
-			<TradeRouteSeaDistanceModifier>50</TradeRouteSeaDistanceModifier>
+			<TradeRouteSeaDistanceModifier>100</TradeRouteSeaDistanceModifier>
 			<!--海上贸易距离百分比加成-->
 			<NumTradeRouteBonus>2</NumTradeRouteBonus>
 			<!--贸易路线增加-->
@@ -76,6 +76,18 @@
 			<Yield>4</Yield>
 		</Row>
 	</Building_YieldChanges>
+	<Building_TradeRouteFromTheCityYieldsPerEra>
+	    <Row>
+	        <BuildingType>BUILDING_STONE_TOWN</BuildingType>
+			<YieldType>YIELD_GOLD</YieldType>
+			<YieldValue>4</YieldValue>
+	    </Row>
+		<Row>
+	        <BuildingType>BUILDING_STONE_TOWN</BuildingType>
+			<YieldType>YIELD_SCIENCE</YieldType>
+			<YieldValue>4</YieldValue>
+	    </Row>
+	</Building_TradeRouteFromTheCityYieldsPerEra>
 	
 	<Building_Flavors>
 	<!--ai建造参考数值，对玩家没用-->

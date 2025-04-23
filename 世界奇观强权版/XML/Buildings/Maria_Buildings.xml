@@ -38,7 +38,7 @@
 			<!--无需邻湖邻海-->
 			<ConquestProb>100</ConquestProb>
 			<!--征服奖金-->
-			<UnmoddedHappiness>5</UnmoddedHappiness>
+			<UnmoddedHappiness>10</UnmoddedHappiness>
 			<!--全国快乐-->
 			<FreeBuildingThisCity>BUILDINGCLASS_MONASTERY</FreeBuildingThisCity>
 			<!--无偿建筑修道院-->
@@ -49,6 +49,8 @@
 			<WonderSplashImage>MARIA_splash.dds</WonderSplashImage>
 			<!--奇观建成图片-->
 			<WonderSplashAnchor>L,B</WonderSplashAnchor>
+			<GlobalGrowthFoodNeededModifier>-20</GlobalGrowthFoodNeededModifier>
+			<FreePolicies>1</FreePolicies>
 			<!-- 
 			<ArtDefineTag>MARIA </ArtDefineTag>
 			<DisplayPosition>2</DisplayPosition>
@@ -64,14 +66,14 @@
 			<!--关联建筑感恩圣母堂-->
 			<YieldType>YIELD_CULTURE</YieldType>
 			<!--文化加成-->
-			<Yield>4</Yield>
+			<Yield>8</Yield>
 		</Row>
 		<Row>
 			<BuildingType>BUILDING_MARIA</BuildingType>
 			<!--关联建筑感恩圣母堂-->
 			<YieldType>YIELD_FAITH</YieldType>
 			<!--信仰加成-->
-			<Yield>4</Yield>
+			<Yield>8</Yield>
 		</Row>
 	</Building_YieldChanges>
 	

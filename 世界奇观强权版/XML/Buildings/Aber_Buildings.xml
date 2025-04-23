@@ -62,7 +62,7 @@
 			<!--受影响建筑渔场-->
 			<YieldType>YIELD_FOOD</YieldType>
 			<!--食物加成-->
-			<YieldChange>3</YieldChange>
+			<YieldChange>6</YieldChange>
 		</Row>
 		<Row>
 			<BuildingType>BUILDING_ABER</BuildingType>
@@ -71,7 +71,7 @@
 			<!--受影响建筑粮仓-->
 			<YieldType>YIELD_FOOD</YieldType>
 			<!--食物加成-->
-			<YieldChange>3</YieldChange>
+			<YieldChange>6</YieldChange>
 		</Row>
 		<Row>
 			<BuildingType>BUILDING_ABER</BuildingType>
@@ -80,7 +80,7 @@
 			<!--受影响建筑磨坊-->
 			<YieldType>YIELD_FOOD</YieldType>
 			<!--食物加成-->
-			<YieldChange>3</YieldChange>
+			<YieldChange>6</YieldChange>
 		</Row>
 		<Row>
 			<BuildingType>BUILDING_ABER</BuildingType>
@@ -89,7 +89,7 @@
 			<!--受影响建筑水力磨坊-->
 			<YieldType>YIELD_FOOD</YieldType>
 			<!--食物加成-->
-			<YieldChange>3</YieldChange>
+			<YieldChange>6</YieldChange>
 		</Row>
 		<Row>
 			<BuildingType>BUILDING_ABER</BuildingType>
@@ -98,7 +98,7 @@
 			<!--受影响建筑风车-->
 			<YieldType>YIELD_FOOD</YieldType>
 			<!--食物加成-->
-			<YieldChange>3</YieldChange>
+			<YieldChange>6</YieldChange>
 		</Row>
 		<Row>
 			<BuildingType>BUILDING_ABER</BuildingType>
@@ -107,7 +107,7 @@
 			<!--受影响建筑粮库-->
 			<YieldType>YIELD_FOOD</YieldType>
 			<!--食物加成-->
-			<YieldChange>3</YieldChange>
+			<YieldChange>6</YieldChange>
 		</Row>
 		<Row>
 			<BuildingType>BUILDING_ABER</BuildingType>
@@ -116,7 +116,7 @@
 			<!--受影响建筑机械化农场-->
 			<YieldType>YIELD_FOOD</YieldType>
 			<!--食物加成-->
-			<YieldChange>3</YieldChange>
+			<YieldChange>6</YieldChange>
 		</Row>
 	</Building_BuildingClassYieldChanges>
 	

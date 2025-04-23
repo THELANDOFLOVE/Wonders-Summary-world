@@ -24,7 +24,7 @@
 			<!--砖家点数增幅-->
 			<SpecialistCount>2</SpecialistCount>
 			<!--砖家槽位-->
-			<Gold>40000</Gold>
+			<Gold>100000</Gold>
 			<!--建造后所获金币-->
 			<NukeImmune>true</NukeImmune>
 			<!--不会被核弹摧毁-->
@@ -79,7 +79,7 @@
 			<!--关联建筑上海环球金融中心-->
 			<YieldType>YIELD_GOLD</YieldType>
 			<!--金币增加百分比-->
-			<Yield>50</Yield>
+			<Yield>100</Yield>
 		</Row>
 	</Building_YieldModifiers>
 	

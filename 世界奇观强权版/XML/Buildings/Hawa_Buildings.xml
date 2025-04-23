@@ -37,6 +37,8 @@
 			<WonderSplashImage>HAWA_splash.dds</WonderSplashImage>
 			<!--奇观建成图片-->
 			<WonderSplashAnchor>L,B</WonderSplashAnchor>
+			<GlobalProductionNeededBuildingModifier>-15</GlobalProductionNeededBuildingModifier>
+			<GlobalProductionNeededProjectModifier>-15</GlobalProductionNeededProjectModifier>
 		</Row>
 	</Buildings>
 	

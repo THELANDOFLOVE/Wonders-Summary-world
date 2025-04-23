@@ -59,7 +59,7 @@
 			<!--关联建筑沙特尔圣母大教堂-->
 			<YieldType>YIELD_FAITH</YieldType>
 			<!--信仰-->
-			<Yield>5</Yield>
+			<Yield>10</Yield>
 		</Row>
 	</Building_YieldChanges>
 	
@@ -72,7 +72,7 @@
 			<!--加成关联建筑神殿-->
 			<YieldType>YIELD_SCIENCE</YieldType>
 			<!--科研-->
-			<YieldChange>2</YieldChange>
+			<YieldChange>6</YieldChange>
 		</Row>
 		<Row>
 			<BuildingType>BUILDING_CHARTRES</BuildingType>
@@ -81,7 +81,7 @@
 			<!--加成关联建筑神祠-->
 			<YieldType>YIELD_SCIENCE</YieldType>
 			<!--科研-->
-			<YieldChange>1</YieldChange>
+			<YieldChange>3</YieldChange>
 		</Row>
 	</Building_BuildingClassYieldChanges>
 	

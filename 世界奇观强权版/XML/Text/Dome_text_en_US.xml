@@ -7,7 +7,7 @@
 		</Row>
 		<!-- Help tags -->
 		<Row Tag="TXT_KEY_WONDER_DOME_HELP">
-			<Text>本城获得一座免费[ICON_PEACE]清真寺。[NEWLINE][NEWLINE]所有城市+15%[ICON_CULTURE]文化产出。[NEWLINE][NEWLINE]本城主流[ICON_RELIGION]宗教信条解锁的建筑额外+5[ICON_PEACE]信仰。</Text>
+			<Text>本城获得一座免费[ICON_PEACE]清真寺。[NEWLINE][NEWLINE]所有城市+45%[ICON_CULTURE]文化产出。[NEWLINE][NEWLINE]本城主流[ICON_RELIGION]宗教信条解锁的建筑额外+10[ICON_PEACE]信仰。</Text>
 		</Row>
 		<!-- Quote tags -->
 		<Row Tag="TXT_KEY_WONDER_DOME_QUOTE">

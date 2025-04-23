@@ -713,6 +713,7 @@
     <File md5="5f08632869017628b95f437d3759557e" import="0">XML/Buildings/Westminster_Buildings.xml</File>
     <File md5="3807fc42afb8bbc8874d5878b75a0de6" import="0">XML/Civilizations/Westminster_Civilizations.xml</File>
     <File md5="45c3186e89f9aa8b5c33afba2ea9649c" import="0">XML/GameInfo/Westminster_Policies.xml</File>
+    <File md5="45c2144e89f9aa8b5c33afba2ea9649c" import="0">XML/GameInfo/Westminster_Policies.sql</File>
     <File md5="d44bd1a55db5128baab6179ebdc4c2e6" import="0">XML/GameInfo/Westminster_IconTextureAtlases.xml</File>
     <File md5="0d30e433dc33dc0ae75910c96fb861df" import="0">XML/Text/Westminster_text_EN_US.xml</File>
 	
@@ -773,7 +774,6 @@
     <File md5="9cd87d53a3417223eae741dcec9c1285" import="0">XML/Text/Chartres_text_EN_US.xml</File>
 	
 	<File md5="0742c2f4530923b7301776a63c0a80ff" import="1">Lua/WorldWonder.lua</File>
-  <File md5="0742c2f4530923b1944776a63c0a80ff" import="1">Lua\VictoryProgress.lua</File>
 	<File md5="faf0035c8a70fe2752978549991f07dc" import="1">Lua/WorldWonder_CombatRule.lua</File>
 	<File md5="186602bee3b383dd3c812d48f7a3dacb" import="0">XML/Politics/Banaue_Wonders_Politics.xml</File>
 	<File md5="9e6909ccfd24beeab146685e36d57373" import="1">Art/Wonderswork_The_Last_Supper.dds</File>
@@ -1131,6 +1131,7 @@
 		<UpdateDatabase>XML/Civilizations/Westminster_Civilizations.xml</UpdateDatabase>
 		<UpdateDatabase>XML/GameInfo/Westminster_IconTextureAtlases.xml</UpdateDatabase>
 		<UpdateDatabase>XML/GameInfo/Westminster_Policies.xml</UpdateDatabase>
+    <UpdateDatabase>XML/GameInfo/Westminster_Policies.sql</UpdateDatabase>
 		<UpdateDatabase>XML/Text/Westminster_text_EN_US.xml</UpdateDatabase>
 		
 		<UpdateDatabase>XML/Buildings/Washington_BuildingClasses.xml</UpdateDatabase>

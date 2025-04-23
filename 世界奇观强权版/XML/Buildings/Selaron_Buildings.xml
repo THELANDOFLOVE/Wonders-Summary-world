@@ -95,6 +95,33 @@
 			<!--金币加成-->
 			<Yield>3</Yield>
 		</Row>
+		<Row>
+			<BuildingType>BUILDING_SELARON</BuildingType>
+			<!--关联建筑塞勒隆阶梯-->
+			<SpecialistType>SPECIALIST_WRITER</SpecialistType>
+			<!--关联专家文学家-->
+			<YieldType>YIELD_SCIENCE</YieldType>
+			<!--科研加成-->
+			<Yield>3</Yield>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_SELARON</BuildingType>
+			<!--关联建筑塞勒隆阶梯-->
+			<SpecialistType>SPECIALIST_ARTIST</SpecialistType>
+			<!--关联专家美术家-->
+			<YieldType>YIELD_SCIENCE</YieldType>
+			<!--科研加成-->
+			<Yield>3</Yield>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_SELARON</BuildingType>
+			<!--关联建筑塞勒隆阶梯-->
+			<SpecialistType>SPECIALIST_MUSICIAN</SpecialistType>
+			<!--关联专家音乐家-->
+			<YieldType>YIELD_SCIENCE</YieldType>
+			<!--科研加成-->
+			<Yield>3</Yield>
+		</Row>
 	</Building_SpecialistYieldChanges>
 	
 	<Building_Flavors>

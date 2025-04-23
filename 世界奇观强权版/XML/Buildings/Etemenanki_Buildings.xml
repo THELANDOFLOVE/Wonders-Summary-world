@@ -29,11 +29,11 @@
 			<!--所需科技历法-->
 			<SpecialistType>SPECIALIST_SCIENTIST</SpecialistType>
 			<!--砖家类型科学家-->
-			<GreatPeopleRateChange>1</GreatPeopleRateChange>
+			<GreatPeopleRateChange>2</GreatPeopleRateChange>
 			<!--砖家点数增幅-->
 			<UnmoddedHappiness>2</UnmoddedHappiness>
 			<!--全国快乐-->
-			<GoldenAgeModifier>33</GoldenAgeModifier>
+			<GoldenAgeModifier>50</GoldenAgeModifier>
 			<!--黄金时代延长百分比-->
 			<NukeImmune>true</NukeImmune>
 			<!--核弹免疫-->
@@ -61,21 +61,21 @@
 			<!--关联建筑埃特梅南奇-->
 			<YieldType>YIELD_GOLDEN_AGE_POINTS</YieldType>
 			<!--黄金时代产出-->
-			<Yield>3</Yield>
+			<Yield>6</Yield>
 		</Row>
 		<Row>
 			<BuildingType>BUILDING_ETEMENANKI</BuildingType>
 			<!--关联建筑埃特梅南奇-->
 			<YieldType>YIELD_SCIENCE</YieldType>
 			<!--科研加成-->
-			<Yield>1</Yield>
+			<Yield>3</Yield>
 		</Row>
 		<Row>
 			<BuildingType>BUILDING_ETEMENANKI</BuildingType>
 			<!--关联建筑埃特梅南奇-->
 			<YieldType>YIELD_CULTURE</YieldType>
 			<!--文化加成-->
-			<Yield>1</Yield>
+			<Yield>3</Yield>
 		</Row>
 	</Building_YieldChanges>
 	
@@ -88,7 +88,7 @@
 			<!--受影响的建筑一级城市-->
 			<YieldType>YIELD_GOLDEN_AGE_POINTS</YieldType>
 			<!--黄金时代产出-->
-			<YieldChange>3</YieldChange>
+			<YieldChange>6</YieldChange>
 		</Row>
 		<Row>
 			<BuildingType>BUILDING_ETEMENANKI</BuildingType>
@@ -97,7 +97,7 @@
 			<!--受影响的建筑二级城市-->
 			<YieldType>YIELD_GOLDEN_AGE_POINTS</YieldType>
 			<!--黄金时代产出-->
-			<YieldChange>3</YieldChange>
+			<YieldChange>6</YieldChange>
 		</Row>
 	</Building_BuildingClassYieldChanges>
 	

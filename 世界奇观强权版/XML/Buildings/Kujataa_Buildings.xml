@@ -34,7 +34,7 @@
 			<!--所需科技罗盘-->
 			<SpecialistType>SPECIALIST_SCIENTIST</SpecialistType>
 			<!--砖家类型科学家-->
-			<GreatPeopleRateChange>1</GreatPeopleRateChange>
+			<GreatPeopleRateChange>2</GreatPeopleRateChange>
 			<!--砖家点数增幅-->
 			<NearbyTerrainRequired>TERRAIN_TUNDRA</NearbyTerrainRequired>
 			<!--邻近冻土-->
@@ -95,14 +95,14 @@
 			<!--关联建筑库加塔-->
 			<YieldType>YIELD_FOOD</YieldType>
 			<!--食物加成-->
-			<Yield>4</Yield>
+			<Yield>8</Yield>
 		</Row>
 		<Row>
 			<BuildingType>BUILDING_KUJATAA</BuildingType>
 			<!--关联建筑库加塔-->
 			<YieldType>YIELD_CULTURE</YieldType>
 			<!--文化加成-->
-			<Yield>2</Yield>
+			<Yield>4</Yield>
 		</Row>
 	</Building_YieldChanges>
 	
@@ -115,7 +115,7 @@
 			<!--区块类型雪原-->
 			<YieldType>YIELD_FOOD</YieldType>
 			<!--食物加成-->
-			<Yield>1</Yield>
+			<Yield>2</Yield>
 		</Row>
 		<Row>
 			<BuildingType>BUILDING_KUJATAA</BuildingType>
@@ -124,7 +124,7 @@
 			<!--区块类型雪原-->
 			<YieldType>YIELD_CULTURE</YieldType>
 			<!--文化加成-->
-			<Yield>1</Yield>
+			<Yield>2</Yield>
 		</Row>
 		<Row>
 			<BuildingType>BUILDING_KUJATAA</BuildingType>
@@ -133,7 +133,7 @@
 			<!--区块类型冻土-->
 			<YieldType>YIELD_FOOD</YieldType>
 			<!--食物加成-->
-			<Yield>1</Yield>
+			<Yield>2</Yield>
 		</Row>
 		<Row>
 			<BuildingType>BUILDING_KUJATAA</BuildingType>
@@ -142,7 +142,25 @@
 			<!--区块类型冻土-->
 			<YieldType>YIELD_CULTURE</YieldType>
 			<!--文化加成-->
-			<Yield>1</Yield>
+			<Yield>2</Yield>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_KUJATAA</BuildingType>
+			<!--关联建筑库加塔-->
+			<TerrainType>TERRAIN_SNOW</TerrainType>
+			<!--区块类型雪原-->
+			<YieldType>YIELD_PRODUCTION</YieldType>
+			<!--产能加成-->
+			<Yield>2</Yield>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_KUJATAA</BuildingType>
+			<!--关联建筑库加塔-->
+			<TerrainType>TERRAIN_TUNDRA</TerrainType>
+			<!--区块类型冻土-->
+			<YieldType>YIELD_PRODUCTION</YieldType>
+			<!--产能加成-->
+			<Yield>2</Yield>
 		</Row>
 	</Building_TerrainYieldChanges>
 	

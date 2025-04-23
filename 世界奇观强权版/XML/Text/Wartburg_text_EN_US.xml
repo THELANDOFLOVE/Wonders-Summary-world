@@ -7,7 +7,7 @@
 		</Row>
 		<!-- Help tags -->
 		<Row Tag="TXT_KEY_WONDER_WARTBURG_HELP">
-			<Text>本城获得一座免费[ICON_STRENGTH]城堡。[NEWLINE][NEWLINE]免费获得一项[COLOR_MAGENTA]社会政策[ENDCOLOR]，在其杰作展位中已经收藏有一件文学杰作《九十五条论纲》。[NEWLINE][NEWLINE]城市必须建立在[ICON_PROMOTION_DESERT_WARRIOR]丘陵上。</Text>
+			<Text>本城获得一座免费[ICON_STRENGTH]城堡。[NEWLINE][NEWLINE]免费获得两项[COLOR_MAGENTA]社会政策[ENDCOLOR]，在其杰作展位中已经收藏有一件文学杰作《九十五条论纲》。[NEWLINE][NEWLINE]城市必须建立在[ICON_PROMOTION_DESERT_WARRIOR]丘陵上。</Text>
 		</Row>
 		<!-- Quote tags -->
 		<Row Tag="TXT_KEY_WONDER_WARTBURG_QUOTE">

@@ -89,6 +89,13 @@
 			<!--人口金币加成-->
 			<Yield>500</Yield>
 		</Row>
+		<Row>
+			<BuildingType>BUILDING_LONDON</BuildingType>
+			<!--关联建筑伦敦眼-->
+			<YieldType>YIELD_PRODUCTION</YieldType>
+			<!--人口产能加成-->
+			<Yield>100</Yield>
+		</Row>
 	</Building_YieldChangesPerPop>
 	
 	<Building_Flavors>

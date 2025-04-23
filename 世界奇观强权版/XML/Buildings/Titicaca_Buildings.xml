@@ -65,21 +65,21 @@
 			<!--关联建筑的的喀喀湖-->
 			<YieldType>YIELD_FOOD</YieldType>
 			<!--食物加成-->
-			<Yield>3</Yield>
+			<Yield>6</Yield>
 		</Row>
 		<Row>
 			<BuildingType>BUILDING_TITICACA</BuildingType>
 			<!--关联建筑的的喀喀湖-->
 			<YieldType>YIELD_CULTURE</YieldType>
 			<!--文化加成-->
-			<Yield>1</Yield>
+			<Yield>2</Yield>
 		</Row>
 		<Row>
 			<BuildingType>BUILDING_TITICACA</BuildingType>
 			<!--关联建筑的的喀喀湖-->
 			<YieldType>YIELD_FAITH</YieldType>
 			<!--信仰加成-->
-			<Yield>1</Yield>
+			<Yield>2</Yield>
 		</Row>
 	</Building_YieldChanges>
 	
@@ -109,14 +109,14 @@
 			<!--关联建筑的的喀喀湖-->
 			<YieldType>YIELD_FOOD</YieldType>
 			<!--食物加成-->
-			<Yield>1</Yield>
+			<Yield>2</Yield>
 		</Row>
 		<Row>
 			<BuildingType>BUILDING_TITICACA</BuildingType>
 			<!--关联建筑的的喀喀湖-->
 			<YieldType>YIELD_FAITH</YieldType>
 			<!--信仰加成-->
-			<Yield>1</Yield>
+			<Yield>2</Yield>
 		</Row>
 	</Building_LakePlotYieldChanges>
 	
@@ -127,7 +127,7 @@
 			<!--关联建筑的的喀喀湖-->
 			<YieldType>YIELD_FOOD</YieldType>
 			<!--食物加成-->
-			<Yield>10</Yield>
+			<Yield>25</Yield>
 		</Row>
 	</Building_GlobalYieldModifiers>
 	
