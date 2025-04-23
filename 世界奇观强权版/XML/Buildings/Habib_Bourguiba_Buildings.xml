@@ -37,7 +37,7 @@
 			<WonderSplashImage>HABIB_BOURGUIBA_splash.dds</WonderSplashImage>
 			<!--奇观建成图片-->
 			<WonderSplashAnchor>L,B</WonderSplashAnchor>
-			<TradeRouteModifier>100</TradeRouteModifier>
+			<CityConnectionTradeRouteModifier>100</CityConnectionTradeRouteModifier>
 		</Row>
 	</Buildings>
 	
