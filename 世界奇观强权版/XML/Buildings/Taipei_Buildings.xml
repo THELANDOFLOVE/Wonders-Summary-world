@@ -30,7 +30,7 @@
 			<!--无需邻湖邻海-->
 			<ConquestProb>100</ConquestProb>
 			<!--征服奖金-->
-			<FreeBuildingThisCity>BUILDINGCLASS_FINANCE_COMPANY</FreeBuilding>
+			<FreeBuildingThisCity>BUILDINGCLASS_FINANCE_COMPANY</FreeBuildingThisCity>
 			<!--无偿建筑金融公司-->
 			<IconAtlas>BW_ATLAS_TAIPEI</IconAtlas>
 			<!--图标取材-->
@@ -60,7 +60,7 @@
 			<!--关联建筑台北101大厦-->
 			<YieldType>YIELD_GOLD</YieldType>
 			<!--人口金币加成-->
-			<Yield>200</Yield>
+			<Yield>400</Yield>
 		</Row>
 	</Building_YieldChangesPerPop>
 	
@@ -71,7 +71,7 @@
 			<!--关联建筑台北101大厦-->
 			<YieldType>YIELD_GOLD</YieldType>
 			<!--金币加成-->
-			<Yield>40</Yield>
+			<Yield>80</Yield>
 		</Row>
 	</Building_YieldChanges>
 	

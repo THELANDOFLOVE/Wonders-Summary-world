@@ -7,7 +7,7 @@
 		</Row>
 		<!-- Help tags -->
 		<Row Tag="TXT_KEY_WONDER_MARIA_HELP">
-			<Text>本城获得一座免费[ICON_GREAT_PEOPLE]修道院。[NEWLINE][NEWLINE]全国[ICON_HAPPINESS_1]快乐+5，在其杰作展位中已收藏有一件世界名作《最后的晚餐》。[NEWLINE][NEWLINE]城市必须为[ICON_RELIGION]圣城。</Text>
+			<Text>本城获得一座免费[ICON_GREAT_PEOPLE]修道院，所有城市-20%[ICON_CITIZEN]人口增长阈值，免费获得一项社会政策。[NEWLINE][NEWLINE]全国[ICON_HAPPINESS_1]快乐+10，在其杰作展位中已收藏有一件世界名作《最后的晚餐》。[NEWLINE][NEWLINE]城市必须为[ICON_RELIGION]圣城。</Text>
 		</Row>
 		<!-- Quote tags -->
 		<Row Tag="TXT_KEY_WONDER_MARIA_QUOTE">

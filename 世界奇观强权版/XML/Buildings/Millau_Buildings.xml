@@ -61,7 +61,7 @@
 			<!--关联建筑米约大桥-->
 			<YieldType>YIELD_GOLD</YieldType>
 			<!--人口金币加成-->
-			<Yield>50</Yield>
+			<Yield>100</Yield>
 		</Row>
 	</Building_YieldChangesPerPop>
 	

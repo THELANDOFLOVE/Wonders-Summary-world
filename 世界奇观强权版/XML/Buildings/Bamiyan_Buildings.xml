@@ -20,7 +20,7 @@
 			<!--所需科技石工术-->
 			<SpecialistType>SPECIALIST_ENGINEER</SpecialistType>
 			<!--砖家类型工程师-->
-			<GreatPeopleRateChange>1</GreatPeopleRateChange>
+			<GreatPeopleRateChange>2</GreatPeopleRateChange>
 			<!--砖家点数增幅-->
 			<Happiness>1</Happiness>
 			<!--建筑快乐加成-->
@@ -88,14 +88,14 @@
 			<!--关联建筑巴米扬大佛-->
 			<YieldType>YIELD_CULTURE</YieldType>
 			<!--文化加成-->
-			<Yield>1</Yield>
+			<Yield>2</Yield>
 		</Row>
 		<Row>
 			<BuildingType>BUILDING_BAMIYAN</BuildingType>
 			<!--关联建筑巴米扬大佛-->
 			<YieldType>YIELD_FAITH</YieldType>
 			<!--信仰加成-->
-			<Yield>1</Yield>
+			<Yield>2</Yield>
 		</Row>
 	</Building_YieldChanges>
 	
@@ -108,7 +108,16 @@
 			<!--关联地形沙漠-->
 			<YieldType>YIELD_FAITH</YieldType>
 			<!--信仰加成-->
-			<Yield>1</Yield>
+			<Yield>2</Yield>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_BAMIYAN</BuildingType>
+			<!--关联建筑巴米扬大佛-->
+			<TerrainType>TERRAIN_DESERT</TerrainType>
+			<!--关联地形沙漠-->
+			<YieldType>YIELD_HEALTH</YieldType>
+			<!--健康加成-->
+			<Yield>2</Yield>
 		</Row>
 	</Building_TerrainYieldChanges>
 	
@@ -121,7 +130,7 @@
 			<!--受影响的建筑巴米扬大佛-->
 			<YieldType>YIELD_CULTURE</YieldType>
 			<!--文化加成-->
-			<YieldChange>2</YieldChange>
+			<YieldChange>4</YieldChange>
 		</Row>
 		<Row>
 			<BuildingType>BUILDING_BAMIYAN_BONUS</BuildingType>
@@ -130,7 +139,7 @@
 			<!--受影响的建筑巴米扬大佛-->
 			<YieldType>YIELD_FAITH</YieldType>
 			<!--信仰加成-->
-			<YieldChange>2</YieldChange>
+			<YieldChange>4</YieldChange>
 		</Row>
 	</Building_BuildingClassYieldChanges>
 	
@@ -141,7 +150,7 @@
 			<!--关联建筑巴米扬佛窟-->
 			<BuildingClassType>BUILDINGCLASS_BAMIYAN</BuildingClassType>
 			<!--受影响的建筑巴米扬大佛-->
-			<Happiness>2</Happiness>
+			<Happiness>4</Happiness>
 		</Row>
 	</Building_BuildingClassHappiness>
 	

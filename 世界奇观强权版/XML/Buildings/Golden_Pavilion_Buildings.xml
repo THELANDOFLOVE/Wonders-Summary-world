@@ -47,14 +47,14 @@
 			<!--关联建筑金阁寺-->
 			<YieldType>YIELD_CULTURE</YieldType>
 			<!--文化加成-->
-			<Yield>2</Yield>
+			<Yield>4</Yield>
 		</Row>
 		<Row>
 			<BuildingType>BUILDING_GOLDEN_PAVILION</BuildingType>
 			<!--关联建筑金阁寺-->
 			<YieldType>YIELD_GOLD</YieldType>
 			<!--金币加成-->
-			<Yield>6</Yield>
+			<Yield>12</Yield>
 		</Row>
 	</Building_YieldChanges>
 	
@@ -77,6 +77,13 @@
 			<!--关联建筑金阁寺-->
 			<YieldType>YIELD_GOLD</YieldType>
 			<!--人口金币加成-->
+			<Yield>100</Yield>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_GOLDEN_PAVILION</BuildingType>
+			<!--关联建筑金阁寺-->
+			<YieldType>YIELD_CULTURE</YieldType>
+			<!--人口文化加成-->
 			<Yield>100</Yield>
 		</Row>
 	</Building_YieldChangesPerPop>

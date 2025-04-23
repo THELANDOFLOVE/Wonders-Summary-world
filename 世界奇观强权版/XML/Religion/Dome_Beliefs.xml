@@ -5,25 +5,25 @@
 			<BeliefType>BELIEF_PAGODAS</BeliefType>
 			<BuildingClassType>BUILDINGCLASS_DOME</BuildingClassType>
 			<YieldType>YIELD_FAITH</YieldType>
-			<YieldChange>5</YieldChange>
+			<YieldChange>10</YieldChange>
 		</Row>
 		<Row>
 			<BeliefType>BELIEF_MOSQUES</BeliefType>
 			<BuildingClassType>BUILDINGCLASS_DOME</BuildingClassType>
 			<YieldType>YIELD_FAITH</YieldType>
-			<YieldChange>5</YieldChange>
+			<YieldChange>10</YieldChange>
 		</Row>
 		<Row>
 			<BeliefType>BELIEF_CATHEDRALS</BeliefType>
 			<BuildingClassType>BUILDINGCLASS_DOME</BuildingClassType>
 			<YieldType>YIELD_FAITH</YieldType>
-			<YieldChange>5</YieldChange>
+			<YieldChange>10</YieldChange>
 		</Row>
 		<Row>
 			<BeliefType>BELIEF_MONASTERIES</BeliefType>
 			<BuildingClassType>BUILDINGCLASS_DOME</BuildingClassType>
 			<YieldType>YIELD_FAITH</YieldType>
-			<YieldChange>5</YieldChange>
+			<YieldChange>10</YieldChange>
 		</Row>
 	</Belief_BuildingClassYieldChanges>
 </GameData>

@@ -96,7 +96,7 @@
 			<!--不清楚-->
 			<CannotBeChosen>true</CannotBeChosen>
 			<!--无法选择此晋升-->
-			<CityAttack>25</CityAttack>
+			<CityAttack>75</CityAttack>
 			<!--进攻城市战斗力加成-->
 			<PortraitIndex>59</PortraitIndex>
 			<!--图标顺序-->
@@ -116,8 +116,8 @@
 			<!--关联特质真主之剑-->
 			<TerrainType>TERRAIN_DESERT</TerrainType>
 			<!--地块类型沙漠-->
-			<Defense>10</Defense>
-			<Attack>10</Attack>
+			<Defense>50</Defense>
+			<Attack>50</Attack>
 		</Row>
 	</UnitPromotions_Terrains>
 	

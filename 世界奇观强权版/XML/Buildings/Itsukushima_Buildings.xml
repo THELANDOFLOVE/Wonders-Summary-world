@@ -66,14 +66,14 @@
 			<!--关联建筑严岛神社-->
 			<YieldType>YIELD_CULTURE</YieldType>
 			<!--文化加成-->
-			<Yield>2</Yield>
+			<Yield>4</Yield>
 		</Row>
 		<Row>
 			<BuildingType>BUILDING_ITSUKUSHIMA</BuildingType>
 			<!--关联建筑严岛神社-->
 			<YieldType>YIELD_FAITH</YieldType>
 			<!--信仰加成-->
-			<Yield>2</Yield>
+			<Yield>4</Yield>
 		</Row>
 	</Building_YieldChanges>
 	
@@ -84,7 +84,14 @@
 			<!--关联建筑严岛神社-->
 			<YieldType>YIELD_FAITH</YieldType>
 			<!--信仰加成-->
-			<Yield>1</Yield>
+			<Yield>3</Yield>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_ITSUKUSHIMA</BuildingType>
+			<!--关联建筑严岛神社-->
+			<YieldType>YIELD_SCIENCE</YieldType>
+			<!--科研加成-->
+			<Yield>3</Yield>
 		</Row>
 	</Building_SeaPlotYieldChanges>
 	
@@ -95,7 +102,7 @@
 			<!--关联建筑严岛神社-->
 			<YieldType>YIELD_CULTURE</YieldType>
 			<!--文化加成-->
-			<Yield>2</Yield>
+			<Yield>4</Yield>
 		</Row>
 	</Building_SeaResourceYieldChanges>
 	

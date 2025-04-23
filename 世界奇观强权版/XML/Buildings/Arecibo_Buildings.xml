@@ -30,7 +30,7 @@
 			<!--购买参数，-1为不可购买-->
 			<MinAreaSize>-1</MinAreaSize>
 			<!--无需邻湖邻海-->
-			<SpaceProductionModifier>50</SpaceProductionModifier>
+			<SpaceProductionModifier>100</SpaceProductionModifier>
 			<!--生产太空飞船部件产出加成-->
 			<ConquestProb>100</ConquestProb>
 			<!--征服奖金-->
@@ -89,7 +89,7 @@
 			<!--关联建筑阿雷西博天文台-->
 			<UnitType>UNIT_SCIENTIST</UnitType>
 			<!--关联单位大科学家-->
-			<NumUnits>1</NumUnits>
+			<NumUnits>2</NumUnits>
 		</Row>
 	</Building_FreeUnits>
 	

@@ -60,21 +60,21 @@
 			<!--关联建筑普吾可霍拉神庙-->
 			<DomainType>DOMAIN_LAND</DomainType>
 			<!--地面单位-->
-			<Experience>15</Experience>
+			<Experience>60</Experience>
 		</Row>
 		<Row>
 			<BuildingType>BUILDING_PUUKOHOLA_HEIAU</BuildingType>
 			<!--关联建筑普吾可霍拉神庙-->
 			<DomainType>DOMAIN_SEA</DomainType>
 			<!--海军单位-->
-			<Experience>15</Experience>
+			<Experience>60</Experience>
 		</Row>
 		<Row>
 			<BuildingType>BUILDING_PUUKOHOLA_HEIAU</BuildingType>
 			<!--关联建筑普吾可霍拉神庙-->
 			<DomainType>DOMAIN_AIR</DomainType>
 			<!--空中单位-->
-			<Experience>15</Experience>
+			<Experience>60</Experience>
 		</Row>
 	</Building_DomainFreeExperiences>
 	

@@ -36,7 +36,7 @@
 			<!--巨作类型文学杰作-->
 			<GreatWorkCount>1</GreatWorkCount>
 			<!--巨作栏位-->
-			<FreePolicies>1</FreePolicies>
+			<FreePolicies>2</FreePolicies>
 			<!--免费政策-->
 			<FreeGreatWork>GREAT_WORK_NINETY_FIVE_THESES</FreeGreatWork>
 			<!--赠送巨作-->
@@ -70,7 +70,7 @@
 			<!--关联建筑瓦尔特堡-->
 			<YieldType>YIELD_CULTURE</YieldType>
 			<!--文化加成-->
-			<Yield>2</Yield>
+			<Yield>4</Yield>
 		</Row>
 	</Building_YieldChanges>
 	

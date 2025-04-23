@@ -32,7 +32,7 @@
 			<!--征服奖金-->
 			<River>true</River>
 			<!--邻近河流-->
-			<GreatPeopleRateModifier>50</GreatPeopleRateModifier>
+			<GreatPeopleRateModifier>100</GreatPeopleRateModifier>
 			<!--本城伟人诞生速度-->
 			<GoldenAge>true</GoldenAge>
 			<!--开启黄金时代-->
@@ -64,14 +64,14 @@
 			<!--关联建筑布鲁克林大桥-->
 			<YieldType>YIELD_CULTURE</YieldType>
 			<!--文化加成-->
-			<Yield>4</Yield>
+			<Yield>8</Yield>
 		</Row>
 		<Row>
 			<BuildingType>BUILDING_BROOKLYN</BuildingType>
 			<!--关联建筑布鲁克林大桥-->
 			<YieldType>YIELD_PRODUCTION</YieldType>
 			<!--产能加成-->
-			<Yield>4</Yield>
+			<Yield>8</Yield>
 		</Row>
 	</Building_YieldChanges>
 	

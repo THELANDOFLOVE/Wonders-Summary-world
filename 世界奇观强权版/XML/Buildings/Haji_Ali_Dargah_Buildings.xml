@@ -30,7 +30,7 @@
 			<!--无需邻湖邻海-->
 			<ConquestProb>100</ConquestProb>
 			<!--征服奖金-->
-			<CityConnectionTradeRouteModifier>25</CityConnectionTradeRouteModifier>
+			<CityConnectionTradeRouteModifier>75</CityConnectionTradeRouteModifier>
 			<!--城市链接额外收入-->
 			<Water>true</Water>
 			<!--靠近海洋-->
@@ -51,7 +51,7 @@
 			<!--关联建筑哈吉阿里达加圣地-->
 			<YieldType>YIELD_FAITH</YieldType>
 			<!--信仰加成-->
-			<Yield>4</Yield>
+			<Yield>8</Yield>
 		</Row>
 	</Building_YieldChanges>
 	
@@ -62,14 +62,21 @@
 			<!--关联建筑哈吉阿里达加圣地-->
 			<YieldType>YIELD_GOLD</YieldType>
 			<!--金币加成-->
-			<Yield>2</Yield>
+			<Yield>4</Yield>
 		</Row>
 		<Row>
 			<BuildingType>BUILDING_HAJI_ALI_DARGAH</BuildingType>
 			<!--关联建筑哈吉阿里达加圣地-->
 			<YieldType>YIELD_FAITH</YieldType>
 			<!--信仰加成-->
-			<Yield>2</Yield>
+			<Yield>4</Yield>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_HAJI_ALI_DARGAH</BuildingType>
+			<!--关联建筑哈吉阿里达加圣地-->
+			<YieldType>YIELD_CULTURE</YieldType>
+			<!--文化加成-->
+			<Yield>4</Yield>
 		</Row>
 	</Building_SeaResourceYieldChanges>
 	

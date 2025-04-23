@@ -56,21 +56,21 @@
 			<!--关联建筑礁之天堂南马都尔-->
 			<YieldType>YIELD_FOOD</YieldType>
 			<!--食物加成-->
-			<Yield>2</Yield>
+			<Yield>4</Yield>
 		</Row>
 		<Row>
 			<BuildingType>BUILDING_MADOL</BuildingType>
 			<!--关联建筑礁之天堂南马都尔-->
 			<YieldType>YIELD_CULTURE</YieldType>
 			<!--文化加成-->
-			<Yield>2</Yield>
+			<Yield>4</Yield>
 		</Row>
 		<Row>
 			<BuildingType>BUILDING_MADOL</BuildingType>
 			<!--关联建筑礁之天堂南马都尔-->
 			<YieldType>YIELD_FAITH</YieldType>
 			<!--信仰加成-->
-			<Yield>2</Yield>
+			<Yield>4</Yield>
 		</Row>
 		<Row>
 			<BuildingType>BUILDING_MADOL</BuildingType>
@@ -99,7 +99,14 @@
 			<!--关联建筑礁之天堂南马都尔-->
 			<YieldType>YIELD_FOOD</YieldType>
 			<!--食物加成-->
-			<Yield>1</Yield>
+			<Yield>2</Yield>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_MADOL</BuildingType>
+			<!--关联建筑礁之天堂南马都尔-->
+			<YieldType>YIELD_SCIENCE</YieldType>
+			<!--科研加成-->
+			<Yield>2</Yield>
 		</Row>
 	</Building_SeaPlotYieldChanges>
 	
@@ -110,7 +117,14 @@
 			<!--关联建筑礁之天堂南马都尔-->
 			<YieldType>YIELD_FOOD</YieldType>
 			<!--食物加成-->
-			<Yield>1</Yield>
+			<Yield>2</Yield>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_MADOL</BuildingType>
+			<!--关联建筑礁之天堂南马都尔-->
+			<YieldType>YIELD_SCIENCE</YieldType>
+			<!--科研加成-->
+			<Yield>2</Yield>
 		</Row>
 	</Building_RiverPlotYieldChanges>
 	
@@ -123,7 +137,7 @@
 			<!--受影响的建筑内陆运河-->
 			<YieldType>YIELD_FOOD</YieldType>
 			<!--食物加成-->
-			<YieldChange>2</YieldChange>
+			<YieldChange>4</YieldChange>
 		</Row>
 	</Building_BuildingClassYieldChanges>
 	

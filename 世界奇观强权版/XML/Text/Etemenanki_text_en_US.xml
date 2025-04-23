@@ -7,7 +7,7 @@
 		</Row>
 		<!-- Help tags -->
 		<Row Tag="TXT_KEY_WONDER_ETEMENANKI_HELP">
-			<Text>本城获得一座免费[ICON_PEACE]神庙。[NEWLINE][NEWLINE][ICON_GOLDEN_AGE]黄金时代持续时间延长33%，所有[ICON_CITYBANNER_CITY_LV1]一级城市和[ICON_CITYBANNER_CITY_LV2]二级城市额外+3[ICON_GOLDEN_AGE]黄金时代点数。[NEWLINE][NEWLINE]奇观必须建造于[ICON_CAPITAL]首都。</Text>
+			<Text>本城获得一座免费[ICON_PEACE]神庙。[NEWLINE][NEWLINE][ICON_GOLDEN_AGE]黄金时代持续时间延长50%，所有[ICON_CITYBANNER_CITY_LV1]一级城市和[ICON_CITYBANNER_CITY_LV2]二级城市额外+6[ICON_GOLDEN_AGE]黄金时代点数。[NEWLINE][NEWLINE]奇观必须建造于[ICON_CAPITAL]首都。</Text>
 		</Row>
 		<!-- Quote tags -->
 		<Row Tag="TXT_KEY_WONDER_ETEMENANKI_QUOTE">

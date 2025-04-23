@@ -30,7 +30,7 @@
 			<!--无需邻湖邻海-->
 			<ConquestProb>100</ConquestProb>
 			<!--征服奖金-->
-			<Gold>30000</Gold>
+			<Gold>80000</Gold>
 			<!--建造后所获金币-->
 			<IconAtlas>BW_ATLAS_ARAB_SPRING</IconAtlas>
 			<!--图标取材-->
@@ -60,7 +60,7 @@
 			<!--关联建筑珍珠塔-->
 			<YieldType>YIELD_CULTURE</YieldType>
 			<!--文化加成-->
-			<Yield>6</Yield>
+			<Yield>10</Yield>
 		</Row>
 	</Building_YieldChanges>
 	

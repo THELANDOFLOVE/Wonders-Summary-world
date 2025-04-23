@@ -37,6 +37,7 @@
 			<WonderSplashImage>HABIB_BOURGUIBA_splash.dds</WonderSplashImage>
 			<!--奇观建成图片-->
 			<WonderSplashAnchor>L,B</WonderSplashAnchor>
+			<TradeRouteModifier>100</TradeRouteModifier>
 		</Row>
 	</Buildings>
 	
@@ -74,7 +75,7 @@
 			<!--关联建筑布尔吉巴大街-->
 			<YieldType>YIELD_GOLD</YieldType>
 			<!--金币加成-->
-			<Yield>20</Yield>
+			<Yield>50</Yield>
 		</Row>
 	</Building_YieldChanges>
 	

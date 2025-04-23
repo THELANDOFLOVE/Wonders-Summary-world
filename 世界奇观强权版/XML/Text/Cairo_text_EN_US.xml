@@ -7,7 +7,7 @@
 		</Row>
 		<!-- Help tags -->
 		<Row Tag="TXT_KEY_WONDER_CAIRO_CASTLE_HELP">
-			<Text>本城获得一座免费[ICON_STRENGTH]城堡。[NEWLINE][NEWLINE]所有[COLOR_POSITIVE_TEXT]陆军单位[ENDCOLOR]获得[COLOR_POSITIVE_TEXT]真主之剑[ENDCOLOR]晋升。在[COLOR_POSITIVE_TEXT]沙漠[ENDCOLOR]地块战斗时+10%[ICON_STRENGTH]战斗力，进攻城市时+25%[ICON_STRENGTH]战斗力。[NEWLINE][NEWLINE]城市必须邻近沙漠。</Text>
+			<Text>本城获得一座免费[ICON_STRENGTH]城堡。[NEWLINE][NEWLINE]所有[COLOR_POSITIVE_TEXT]陆军单位[ENDCOLOR]获得[COLOR_POSITIVE_TEXT]真主之剑[ENDCOLOR]晋升。在[COLOR_POSITIVE_TEXT]沙漠[ENDCOLOR]地块战斗时+50%[ICON_STRENGTH]战斗力，进攻城市时+75%[ICON_STRENGTH]战斗力。[NEWLINE][NEWLINE]城市必须邻近沙漠。</Text>
 		</Row>
 		<!-- Quote tags -->
 		<Row Tag="TXT_KEY_WONDER_CAIRO_CASTLE_QUOTE">
@@ -22,7 +22,7 @@
             <Text>真主之剑</Text>
         </Row>
         <Row Tag="TXT_KEY_PROMOTION_CAIRO_HELP">
-            <Text>在[COLOR_POSITIVE_TEXT]沙漠[ENDCOLOR]地块战斗时+10%[ICON_STRENGTH]战斗力，进攻城市时+25%[ICON_STRENGTH]战斗力。</Text>
+            <Text>在[COLOR_POSITIVE_TEXT]沙漠[ENDCOLOR]地块战斗时+50%[ICON_STRENGTH]战斗力，进攻城市时+75%[ICON_STRENGTH]战斗力。</Text>
         </Row>
 	</Language_en_US>
 </GameData>

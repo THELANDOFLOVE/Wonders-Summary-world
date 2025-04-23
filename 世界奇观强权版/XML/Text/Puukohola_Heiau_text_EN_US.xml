@@ -7,7 +7,7 @@
 		</Row>
 		<!-- Help tags -->
 		<Row Tag="TXT_KEY_WONDER_PUUKOHOLA_HEIAU_HELP">
-			<Text>本城+30[ICON_RES_MANPOWER]人力，所组建的[COLOR_POSITIVE_TEXT]作战单位[ENDCOLOR]+15[ICON_PROMOTION_SHOCK_3]初始经验。[NEWLINE][NEWLINE]城市必须沿海。</Text>
+			<Text>本城+30[ICON_RES_MANPOWER]人力，所组建的[COLOR_POSITIVE_TEXT]作战单位[ENDCOLOR]+60[ICON_PROMOTION_SHOCK_3]初始经验。[NEWLINE][NEWLINE]城市必须沿海。</Text>
 		</Row>
 		<!-- Quote tags -->
 		<Row Tag="TXT_KEY_WONDER_PUUKOHOLA_HEIAU_QUOTE">

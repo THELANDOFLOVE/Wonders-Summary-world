@@ -30,7 +30,7 @@
 			<!--无需邻湖邻海-->
 			<ConquestProb>100</ConquestProb>
 			<!--征服奖金-->
-			<GlobalPopulationChange>2</GlobalPopulationChange>
+			<GlobalPopulationChange>4</GlobalPopulationChange>
 			<!--所有城市增加人口-->
 			<FreshWater>true</FreshWater>
 			<!--邻近淡水-->
@@ -62,14 +62,14 @@
 			<!--关联建筑格利普霍姆堡-->
 			<YieldType>YIELD_FOOD</YieldType>
 			<!--食物加成-->
-			<Yield>2</Yield>
+			<Yield>4</Yield>
 		</Row>
 		<Row>
 			<BuildingType>BUILDING_GRIPSHOLM</BuildingType>
 			<!--关联建筑格利普霍姆堡-->
 			<YieldType>YIELD_CULTURE</YieldType>
 			<!--文化加成-->
-			<Yield>2</Yield>
+			<Yield>4</Yield>
 		</Row>
 	</Building_YieldChanges>
 	
@@ -99,14 +99,14 @@
 			<!--关联建筑格利普霍姆堡-->
 			<YieldType>YIELD_FOOD</YieldType>
 			<!--食物加成-->
-			<Yield>2</Yield>
+			<Yield>4</Yield>
 		</Row>
 		<Row>
 			<BuildingType>BUILDING_GRIPSHOLM</BuildingType>
 			<!--关联建筑格利普霍姆堡-->
 			<YieldType>YIELD_PRODUCTION</YieldType>
 			<!--产能加成-->
-			<Yield>1</Yield>
+			<Yield>2</Yield>
 		</Row>
 	</Building_LakePlotYieldChanges>
 	

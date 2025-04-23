@@ -7,7 +7,7 @@
 		</Row>
 		<!-- Help tags -->
 		<Row Tag="TXT_KEY_WONDER_BROOKLYN_HELP">
-			<Text>文明开启一次[ICON_GOLDEN_AGE]黄金时代。[NEWLINE][NEWLINE]本城+50%[ICON_GREAT_PEOPLE]伟人诞生速率。[NEWLINE][NEWLINE]城市必须沿河。</Text>
+			<Text>文明开启一次[ICON_GOLDEN_AGE]黄金时代。[NEWLINE][NEWLINE]本城+100%[ICON_GREAT_PEOPLE]伟人诞生速率。[NEWLINE][NEWLINE]城市必须沿河。</Text>
 		</Row>
 		<!-- Quote tags -->
 		<Row Tag="TXT_KEY_WONDER_BROOKLYN_QUOTE">

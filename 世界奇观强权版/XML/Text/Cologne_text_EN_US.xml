@@ -7,7 +7,7 @@
 		</Row>
 		<!-- Help tags -->
 		<Row Tag="TXT_KEY_WONDER_COLOGNE_HELP">
-			<Text>本城获得一座免费[ICON_GREAT_ARTIST]大教堂。[NEWLINE][NEWLINE]建成奇观后，文明开启一次[ICON_GOLDEN_AGE]黄金时代。</Text>
+			<Text>本城获得一座免费[ICON_GREAT_ARTIST]大教堂。[NEWLINE][NEWLINE]建成奇观后，文明开启一次[ICON_GOLDEN_AGE]黄金时代，[ICON_GOLDEN_AGE]黄金时代长度延长50%。</Text>
 		</Row>
 		<!-- Quote tags -->
 		<Row Tag="TXT_KEY_WONDER_COLOGNE_QUOTE">

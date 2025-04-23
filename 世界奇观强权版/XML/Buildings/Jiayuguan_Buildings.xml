@@ -42,7 +42,7 @@
 			<!--贸易路线出发金币加成-->
 			<TradeRouteLandGoldBonus>600</TradeRouteLandGoldBonus>
 			<!--贸易路线陆路基础金币加成-->
-			<FreeBuildingThisCity>BUILDINGCLASS_CARAVANSARY</FreeBuilding>
+			<FreeBuildingThisCity>BUILDINGCLASS_CARAVANSARY</FreeBuildingThisCity>
 			<!--无偿建筑客栈-->
 			<IconAtlas>BW_ATLAS_CHINESE_NEW_YEAR</IconAtlas>
 			<!--图标取材-->
@@ -53,6 +53,13 @@
 			<WonderSplashAnchor>R,B</WonderSplashAnchor>
 		</Row>
 	</Buildings>
+	<Building_TradeRouteFromTheCityYieldsPerEra>
+		<Row>
+	        <BuildingType>BUILDING_JIAYUGUAN</BuildingType>
+			<YieldType>YIELD_SCIENCE</YieldType>
+			<YieldValue>4</YieldValue>
+	    </Row>
+	</Building_TradeRouteFromTheCityYieldsPerEra>
 	
 	<Building_ResourceQuantityRequirements>
 	<!--战略资源消耗-->

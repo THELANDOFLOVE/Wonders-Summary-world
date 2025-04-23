@@ -60,7 +60,7 @@
 			<!--关联建筑花之圣母大教堂-->
 			<YieldType>YIELD_FAITH</YieldType>
 			<!--信仰加成-->
-			<Yield>4</Yield>
+			<Yield>8</Yield>
 		</Row>
 	</Building_YieldChanges>
 	
@@ -71,6 +71,13 @@
 			<!--关联建筑花之圣母大教堂-->
 			<YieldType>YIELD_CULTURE</YieldType>
 			<!--文化加成-->
+			<Yield>100</Yield>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_DUOMO</BuildingType>
+			<!--关联建筑花之圣母大教堂-->
+			<YieldType>YIELD_SCIENCE</YieldType>
+			<!--科研加成-->
 			<Yield>100</Yield>
 		</Row>
 	</Building_YieldChangesPerPop>
@@ -84,7 +91,7 @@
 			<!--关联专家工程师-->
 			<YieldType>YIELD_FAITH</YieldType>
 			<!--信仰加成-->
-			<Yield>1</Yield>
+			<Yield>2</Yield>
 		</Row>
 		<Row>
 			<BuildingType>BUILDING_DUOMO</BuildingType>
@@ -93,7 +100,7 @@
 			<!--关联专家科学家-->
 			<YieldType>YIELD_FAITH</YieldType>
 			<!--信仰加成-->
-			<Yield>1</Yield>
+			<Yield>2</Yield>
 		</Row>
 		<Row>
 			<BuildingType>BUILDING_DUOMO</BuildingType>
@@ -102,7 +109,7 @@
 			<!--关联专家商业家-->
 			<YieldType>YIELD_FAITH</YieldType>
 			<!--信仰加成-->
-			<Yield>1</Yield>
+			<Yield>2</Yield>
 		</Row>
 		<Row>
 			<BuildingType>BUILDING_DUOMO</BuildingType>
@@ -111,7 +118,7 @@
 			<!--关联专家文学家-->
 			<YieldType>YIELD_FAITH</YieldType>
 			<!--信仰加成-->
-			<Yield>1</Yield>
+			<Yield>2</Yield>
 		</Row>
 		<Row>
 			<BuildingType>BUILDING_DUOMO</BuildingType>
@@ -120,7 +127,7 @@
 			<!--关联专家美术家-->
 			<YieldType>YIELD_FAITH</YieldType>
 			<!--信仰加成-->
-			<Yield>1</Yield>
+			<Yield>2</Yield>
 		</Row>
 		<Row>
 			<BuildingType>BUILDING_DUOMO</BuildingType>
@@ -129,7 +136,7 @@
 			<!--关联专家音乐家-->
 			<YieldType>YIELD_FAITH</YieldType>
 			<!--信仰加成-->
-			<Yield>1</Yield>
+			<Yield>2</Yield>
 		</Row>
 	</Building_SpecialistYieldChanges>
 	

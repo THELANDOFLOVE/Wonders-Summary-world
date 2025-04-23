@@ -22,7 +22,7 @@
 			<!--砖家类型工程师-->
 			<GreatPeopleRateChange>1</GreatPeopleRateChange>
 			<!--砖家点数增幅-->
-			<GreatPeopleRateModifier>25</GreatPeopleRateModifier>
+			<GreatPeopleRateModifier>50</GreatPeopleRateModifier>
 			<!--本城伟人诞生速度-->
 			<Hill>true</Hill>
 			<!--位于丘陵-->
@@ -55,7 +55,7 @@
 			<!--关联建筑梅萨维德-->
 			<YieldType>YIELD_FOOD</YieldType>
 			<!--食物加成-->
-			<YieldChange>4</YieldChange>
+			<YieldChange>8</YieldChange>
 		</Row>
 	</Policy_BuildingClassYieldChanges>
 	
@@ -79,7 +79,7 @@
 			<!--区块类型沙漠-->
 			<YieldType>YIELD_FOOD</YieldType>
 			<!--食物加成-->
-			<Yield>1</Yield>
+			<Yield>3</Yield>
 		</Row>
 	</Building_TerrainYieldChanges>
 	
@@ -90,7 +90,7 @@
 			<!--关联建筑梅萨维德-->
 			<YieldType>YIELD_CULTURE</YieldType>
 			<!--文化加成-->
-			<Yield>1</Yield>
+			<Yield>2</Yield>
 		</Row>
 	</Building_YieldChanges>
 	

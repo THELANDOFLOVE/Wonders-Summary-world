@@ -41,6 +41,7 @@
 			<WonderSplashImage>BANAUE_splash.dds</WonderSplashImage>
 			<!--奇观建成图片-->
 			<WonderSplashAnchor>L,B</WonderSplashAnchor>
+			<GlobalGrowthFoodNeededModifier>-25</GlobalGrowthFoodNeededModifier>
 		</Row>
 	</Buildings>
 	
@@ -83,14 +84,14 @@
 			<!--关联建筑巴拿威梯田-->
 			<YieldType>YIELD_FOOD</YieldType>
 			<!--食物加成-->
-			<Yield>4</Yield>
+			<Yield>8</Yield>
 		</Row>
 		<Row>
 			<BuildingType>BUILDING_BANAUE</BuildingType>
 			<!--关联建筑巴拿威梯田-->
 			<YieldType>YIELD_PRODUCTION</YieldType>
 			<!--产能加成-->
-			<Yield>1</Yield>
+			<Yield>2</Yield>
 		</Row>
 	</Building_YieldChanges>
 	
@@ -103,7 +104,7 @@
 			<!--关联地形丘陵-->
 			<YieldType>YIELD_FOOD</YieldType>
 			<!--食物加成-->
-			<Yield>1</Yield>
+			<Yield>2</Yield>
 		</Row>
 	</Building_PlotYieldChanges>
 	

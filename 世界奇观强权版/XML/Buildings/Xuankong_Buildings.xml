@@ -62,21 +62,21 @@
 			<!--关联建筑悬空寺-->
 			<YieldType>YIELD_SCIENCE</YieldType>
 			<!--科研加成÷100-->
-			<Yield>200</Yield>
+			<Yield>600</Yield>
 		</Row>
 		<Row>
 			<BuildingType>BUILDING_XUANKONG</BuildingType>
 			<!--关联建筑悬空寺-->
 			<YieldType>YIELD_CULTURE</YieldType>
 			<!--文化加成÷100-->
-			<Yield>200</Yield>
+			<Yield>600</Yield>
 		</Row>
 		<Row>
 			<BuildingType>BUILDING_XUANKONG</BuildingType>
 			<!--关联建筑悬空寺-->
 			<YieldType>YIELD_FAITH</YieldType>
 			<!--信仰加成÷100-->
-			<Yield>500</Yield>
+			<Yield>1000</Yield>
 		</Row>
 	</Building_YieldChangesPerReligion>
 	
@@ -87,14 +87,14 @@
 			<!--关联建筑悬空寺-->
 			<YieldType>YIELD_CULTURE</YieldType>
 			<!--文化加成-->
-			<Yield>2</Yield>
+			<Yield>4</Yield>
 		</Row>
 		<Row>
 			<BuildingType>BUILDING_XUANKONG</BuildingType>
 			<!--关联建筑悬空寺-->
 			<YieldType>YIELD_FAITH</YieldType>
 			<!--信仰加成-->
-			<Yield>2</Yield>
+			<Yield>4</Yield>
 		</Row>
 	</Building_YieldChanges>
 	
