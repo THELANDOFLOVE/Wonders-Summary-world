@@ -17,5 +17,27 @@
 		<Row Tag="TXT_KEY_WONDER_MATTERHORN_PEDIA">
 			<Text>马特洪峰位于瑞士边境，邻接阿尔卑斯山脉大山。它高4478米，是欧洲最具标志性的冰雪高峰。策马特附近的瑞士小镇以此山为中心发展旅游业，其特色是马特洪峰博物馆。在这里可以看到通过列车和缆车所看到的更好的山景。[换行] [换行]在欧洲的黄金时期开始了对马特洪峰的攀登。第一次爬上是在1865年6月14日，成员为英国的7名登山者。虽然这很光荣，但是在下山时他们遭遇了意外，其中一人一直没有被发现。此后多年来，马特洪峰始终作为为登山者的噩梦而存在着。</Text>
 		</Row>
+		<!-- Description tags -->
+		<Row Tag="TXT_KEY_BUILDING_YYST">
+			<Text>[COLOR_YIELD_GOLD]银月圣堂[ENDCOLOR]</Text>
+		</Row>
+		<!-- Help tags -->
+		<Row Tag="TXT_KEY_WONDER_YYST_HELP">
+			<Text>研发所需[ICON_RESEARCH]科研阈值-30%，所有城市-25%[ICON_CITIZEN]人口增长阈值,全国单位获得银月之剑晋升</Text>
+		</Row>
+		<!-- Quote tags -->
+		<Row Tag="TXT_KEY_WONDER_YYST_QUOTE">
+			<Text>[NEWLINE]“人只有失去才知道珍惜，终有重逢时，阿雅。”[NEWLINE]        ——希雅[NEWLINE]</Text>
+		</Row>
+		<!-- Pedia tags -->
+		<Row Tag="TXT_KEY_WONDER_YYST_PEDIA">
+			<Text>银月圣堂位于古老的后神明大陆森林境内，四周被皑皑白雪覆盖，是神明希雅在半神时建立的纪念与她一同征战的伙伴们之地，后来她的伙伴们与她一同成神，此地也成为她们每年聚会之所，生活在这里的人们以独角兽为信仰图腾，所以此座建筑又被称之为银月独角兽之塔。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_YYST">
+            <Text>银月之剑</Text>
+        </Row>
+        <Row Tag="TXT_KEY_PROMOTION_YYST_HELP">
+            <Text>拥有此晋升单位进攻城市时，若该城市信仰宗教与本单位所有者文明创立的宗教相同，则该城市归属本文明</Text>
+        </Row>
 	</Language_en_US>
 </GameData>

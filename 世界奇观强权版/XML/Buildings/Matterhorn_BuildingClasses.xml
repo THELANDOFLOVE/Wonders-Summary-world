@@ -7,5 +7,11 @@
 			<Description>TXT_KEY_BUILDING_MATTERHORN</Description>
 			<MaxGlobalInstances>1</MaxGlobalInstances>
 		</Row>
+		<Row>
+			<Type>BUILDINGCLASS_YYST</Type>
+			<DefaultBuilding>BUILDING_YYST</DefaultBuilding>
+			<Description>TXT_KEY_BUILDING_YYST</Description>
+			<MaxGlobalInstances>1</MaxGlobalInstances>
+		</Row>
 	</BuildingClasses>
 </GameData>

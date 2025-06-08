@@ -11,5 +11,15 @@
 			<BuildingClassType>BUILDINGCLASS_MATTERHORN</BuildingClassType>
 			<BuildingType/>
 		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_BARBARIAN</CivilizationType>
+			<BuildingClassType>BUILDINGCLASS_YYST</BuildingClassType>
+			<BuildingType/>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_MINOR</CivilizationType>
+			<BuildingClassType>BUILDINGCLASS_YYST</BuildingClassType>
+			<BuildingType/>
+		</Row>
 	</Civilization_BuildingClassOverrides>
 </GameData>
