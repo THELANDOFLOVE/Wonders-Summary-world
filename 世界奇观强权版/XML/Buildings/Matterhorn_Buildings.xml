@@ -57,13 +57,13 @@
 			<!--历史文本词条-->
 			<Quote>TXT_KEY_WONDER_YYST_QUOTE</Quote>
 			<!--奇观独有文本词条-->
-			<Cost>1000</Cost>
+			<Cost>800</Cost>
 			<!--建造花费-->
 			<PrereqTech>TECH_ACOUSTICS</PrereqTech>
 			<!--所需科技声学-->
-			<NearbyMountainRequired>true</NearbyMountainRequired>
+			<!-- <NearbyMountainRequired>true</NearbyMountainRequired> -->
 			<!--邻近山脉-->
-			<NearbyTerrainRequired>TERRAIN_SNOW</NearbyTerrainRequired>
+			<!-- <NearbyTerrainRequired>TERRAIN_SNOW</NearbyTerrainRequired> -->
 			<!--邻近雪原-->
 			<NukeImmune>true</NukeImmune>
 			<!--不会被核弹摧毁-->
@@ -83,11 +83,9 @@
 			<!--奇观建成图片-->
 			<WonderSplashAnchor>L,T</WonderSplashAnchor>
 			<GlobalGrowthFoodNeededModifier>-25</GlobalGrowthFoodNeededModifier>
-			<ResearchTotalCostModifier>-30</ResearchTotalCostModifier>
-			<FreePromotion>PROMOTION_YYST</FreePromotion>
+			<ResearchTotalCostModifier>-50</ResearchTotalCostModifier>
 		</Row>
 	</Buildings>
-		
 	<Building_YieldChanges>
 	<!--建筑基础产量-->
 		<Row>
@@ -201,22 +199,22 @@
 		<Row>
 			<BuildingType>BUILDING_YYST</BuildingType>
 			<FlavorType>FLAVOR_GROWTH</FlavorType>
-			<Flavor>999999</Flavor>
+			<Flavor>99999</Flavor>
 		</Row>
 		<Row>
 			<BuildingType>BUILDING_YYST</BuildingType>
 			<FlavorType>FLAVOR_SCIENCE</FlavorType>
-			<Flavor>999999</Flavor>
+			<Flavor>99999</Flavor>
 		</Row>
 		<Row>
 			<BuildingType>BUILDING_YYST</BuildingType>
 			<FlavorType>FLAVOR_HAPPINESS</FlavorType>
-			<Flavor>999999</Flavor>
+			<Flavor>99999</Flavor>
 		</Row>
 		<Row>
 			<BuildingType>BUILDING_YYST</BuildingType>
 			<FlavorType>FLAVOR_WONDER</FlavorType>
-			<Flavor>999999</Flavor>
+			<Flavor>99999</Flavor>
 		</Row>
 	</Building_Flavors>
 	

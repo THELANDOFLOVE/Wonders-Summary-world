@@ -23,7 +23,7 @@
 		</Row>
 		<!-- Help tags -->
 		<Row Tag="TXT_KEY_WONDER_YYST_HELP">
-			<Text>研发所需[ICON_RESEARCH]科研阈值-30%，所有城市-25%[ICON_CITIZEN]人口增长阈值,全国单位获得银月之剑晋升</Text>
+			<Text>研发所需[ICON_RESEARCH]科研阈值-50%，所有城市-25%[ICON_CITIZEN]人口增长阈值</Text>
 		</Row>
 		<!-- Quote tags -->
 		<Row Tag="TXT_KEY_WONDER_YYST_QUOTE">
@@ -33,11 +33,5 @@
 		<Row Tag="TXT_KEY_WONDER_YYST_PEDIA">
 			<Text>银月圣堂位于古老的后神明大陆森林境内，四周被皑皑白雪覆盖，是神明希雅在半神时建立的纪念与她一同征战的伙伴们之地，后来她的伙伴们与她一同成神，此地也成为她们每年聚会之所，生活在这里的人们以独角兽为信仰图腾，所以此座建筑又被称之为银月独角兽之塔。</Text>
 		</Row>
-		<Row Tag="TXT_KEY_PROMOTION_YYST">
-            <Text>银月之剑</Text>
-        </Row>
-        <Row Tag="TXT_KEY_PROMOTION_YYST_HELP">
-            <Text>拥有此晋升单位进攻城市时，若该城市信仰宗教与本单位所有者文明创立的宗教相同，则该城市归属本文明</Text>
-        </Row>
 	</Language_en_US>
 </GameData>

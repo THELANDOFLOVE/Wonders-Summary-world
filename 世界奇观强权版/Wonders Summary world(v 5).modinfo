@@ -79,16 +79,15 @@
 	<File md5="cc4ec90c288a0ab6e447af02ea6a423d" import="0">XML/Terrain/RomanStatue.xml</File>
 	<File md5="e5f098cba49cbbca434dec1e40546f86" import="0">XML/Text/FR_Text_EN_US.xml</File>
 	  
-  <File md5="dc072203d092f330d3530d971871a525" import="1">Art\YYST_icon128.dds</File>
-  <File md5="acb5360901fee102a3f211123612cd2b" import="1">DLL/CvGameCore_Expansion2.dll</File>
-  <File md5="8edcf54aa3b0869ad6de00bc720d3153" import="1">Art\YYST_icon256.dds</File>
-  <File md5="fb8a4f1516a84083b28ecbb500b088d3" import="1">Art\YYST_icon45.dds</File>
-  <File md5="743530b80ebbdd7aa526ec2dcb047dd0" import="1">Art\YYST_icon64.dds</File>
-  <File md5="a7a23f421e6531f346d2a03edbf644ab" import="1">Art\YYST_icon80.dds</File>
-  <File md5="f0103c81b1ec57b075eee62a44963430" import="1">Art\YYST_icon48.dds</File>
-  <File md5="b8323acf9ad4e494d9b5e893b825f22a" import="1">Art\YYST_icon32.dds</File>
-  <File md5="905477f28236f77c012a24a8a9b59670" import="1">Art\YYST_icon24.dds</File>
-  <File md5="03ab017b44821ae2af775b6fdb371cef" import="1">Art\YYST_icon22.dds</File>
+  <File md5="dc072203d092f330d3530d971871a525" import="1">Art\YYSTicon128.dds</File>
+  <File md5="8edcf54aa3b0869ad6de00bc720d3153" import="1">Art\YYSTicon256.dds</File>
+  <File md5="fb8a4f1516a84083b28ecbb500b088d3" import="1">Art\YYSTicon45.dds</File>
+  <File md5="743530b80ebbdd7aa526ec2dcb047dd0" import="1">Art\YYSTicon64.dds</File>
+  <File md5="a7a23f421e6531f346d2a03edbf644ab" import="1">Art\YYSTicon80.dds</File>
+  <File md5="f0103c81b1ec57b075eee62a44963430" import="1">Art\YYSTicon48.dds</File>
+  <File md5="b8323acf9ad4e494d9b5e893b825f22a" import="1">Art\YYSTicon32.dds</File>
+  <File md5="905477f28236f77c012a24a8a9b59670" import="1">Art\YYSTicon24.dds</File>
+  <File md5="03ab017b44821ae2af775b6fdb371cef" import="1">Art\YYSTicon22.dds</File>
   <File md5="771648b40bf2bd4dd88e57c279ab0d36" import="1">Art/YYST_splash.dds</File>
   <File md5="eba8192d64bd7cb79f8f3ed6f2126e48" import="1">Art/Matterhorn_icon128.dds</File>
   <File md5="6d59bf93bb473100a36f48ebf17ba8a2" import="1">Art/Matterhorn_icon256.dds</File>
@@ -790,9 +789,6 @@
 	<File md5="dcf48d8b0f2a42966bc9b91862bba51f" import="1">Art/Wonderswork_The_Last_Supper.dds</File>
   </Files>
   <Actions>
-    <OnGetDLLPath>
-      <SetDllPath>DLL/CvGameCore_Expansion2.dll</SetDllPath>
-  </OnGetDLLPath>
     <OnModActivated>
 		<UpdateDatabase>XML/Buildings/Gifu_Building.xml</UpdateDatabase>
 		<UpdateDatabase>XML/Gameinfo/Gifu_IconAtlas.xml</UpdateDatabase>

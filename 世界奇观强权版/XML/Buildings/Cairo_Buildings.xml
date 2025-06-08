@@ -107,27 +107,6 @@
 			<PediaEntry>TXT_KEY_PROMOTION_CAIRO</PediaEntry>
 			<!--百科文本-->
 		</Row>
-		<Row>
-			<Type>PROMOTION_YYST</Type>
-			<!--银月之剑-->
-			<Description>TXT_KEY_PROMOTION_YYST</Description>
-			<!--晋升名文本-->
-			<Help>TXT_KEY_PROMOTION_YYST_HELP</Help>
-			<!--晋升名说明-->
-			<Sound>AS2D_IF_LEVELUP</Sound>
-			<!--不清楚-->
-			<CannotBeChosen>true</CannotBeChosen>
-			<!--无法选择此晋升-->
-			<PortraitIndex>0</PortraitIndex>
-			<!--图标顺序-->
-			<IconAtlas>YYST_ATLAS</IconAtlas>
-			<!--图标-->
-			<PediaType>PEDIA_SHARED</PediaType>
-			<!--晋升分类-->
-			<PediaEntry>TXT_KEY_PROMOTION_YYST</PediaEntry>
-			<!--百科文本-->
-			<ReligionOwnership>1</ReligionOwnership>
-		</Row>
 	</UnitPromotions>
 	
 	<UnitPromotions_Terrains>
